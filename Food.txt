@@ -1,0 +1,5 @@
+3 8 Nasi Goreng
+6 17 Spicy Chicken Mcdeluxe
+7 20 Kabuli pulao
+4 20 Mcnuggets
+20 33 dsas
